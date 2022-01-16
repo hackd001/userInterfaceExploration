@@ -1,3 +1,5 @@
+//touchElement function constructs renders key to canvas and changes colour when pressed - releasing the key transitions colour back to original state.
+
 let up_Arrow;
 let right_Arrow;
 let down_Arrow;
